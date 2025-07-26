@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "description": "Walk the dog",
+        "status": "done",
+        "createdAt": "2025-07-25 20:16:46.830395",
+        "updatedAt": "2025-07-25T20:17:16.019374"
+    },
+    {
+        "id": 2,
+        "description": "Clean the house",
+        "status": "in-progress",
+        "createdAt": "2025-07-25 20:16:54.328271",
+        "updatedAt": "2025-07-25T20:17:25.079199"
+    },
+    {
+        "id": 3,
+        "description": "Buy groceries",
+        "status": "todo",
+        "createdAt": "2025-07-25 20:17:00.465260",
+        "updatedAt": "2025-07-25 20:17:00.465260"
+    }
+]
